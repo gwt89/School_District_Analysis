@@ -96,3 +96,17 @@ This image shows the scores by school type after the NaNs were introduced.
 ![Scores By School Type After NaNs](https://user-images.githubusercontent.com/105949411/177443901-6dce709d-3b62-44fe-b641-2608748f18c2.png)
 
 ## Summary
+4 changes in the School District Analysis
+
+There were some minor changes to the District Summary. The Average Reading Score dropped .1%. The Passing Math % dropped .1%. The Passing Reading % dropped .1% and the Overall Passing % dropped .2%.
+
+The School Summary was effected the new analysis. The Overall Passing % dropped from 90.9% to 90.6%. The Passing Reading % dropped from 97.3% to 97%. The Passing Math % dropped from 93.2% to 93.1%. The Average Reading Score saw little change. The Average Math Score dropped from 83.4% to 83.3%.
+
+Scores by School Spending changed slightly. There is no difference in the Average Math and Reading Scores after the replacement. However, the Overall Passing % was slightly higher for all Spending Ranges after the the replacement.
+
+In the original School Summary generated in the PyCitySchools_Challenge, Thomas High School math and reading scores dropped draumatically. After using the loc method to create a new DataFrame with the passing reading and math scores; the reading and math scores went back up.
+
+![Score Change 1](https://user-images.githubusercontent.com/105949411/177459446-8ac09372-ea79-4764-907a-13ea5694cd87.png)
+![Score Change 2](https://user-images.githubusercontent.com/105949411/177459453-4171c204-8971-4d8b-90fb-4ecd776e0eb8.png)
+
+
