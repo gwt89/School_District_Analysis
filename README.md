@@ -2,7 +2,7 @@
 ## Overview of the school district analysis
 The data found in students_complete.csv appears to show academic dishonesty; specifically, the reading and math grades for ninth grade at Thomas High School. In order to uphold state testing standards these math and reading scores for Thomas High School have been replaced with NaNs. The impact of the NaNs will be detailed throughout the analysis.
 ## Resources
-Data Source: students_complete.csv
+Data Source: students_complete.csv, schools_complete.csv
 
 Software: Python 3.10, Jupyter Notebook, Anaconda
 ## Results
